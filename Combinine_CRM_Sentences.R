@@ -4,7 +4,10 @@
 #
 # Combining sentences together
 #
-# 9.26.2016
+# Create E-Prime ready .txt file 
+#
+# By Michelle Cohn 
+# Last updated 9.26.2016
 #
 ############################
 
