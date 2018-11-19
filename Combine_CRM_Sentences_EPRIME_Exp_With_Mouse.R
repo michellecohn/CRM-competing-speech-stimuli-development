@@ -4,7 +4,8 @@
 #
 # Combining sentences together -- CRM Screen selection (with mouse)
 #
-# 11.10.2016 - Updated for waveform addition (no recycling)
+# By Michelle Cohn 
+# Last updated 11.10.2016 - Updated for waveform addition (no recycling)
 #
 ############################
 
