@@ -1,0 +1,12 @@
+######################################################
+#
+# Semitone increases
+# 
+# By Michelle Cohn
+#
+#####################################################
+halfsteps = 2^(1/12)
+origf0 = 250
+semitone_increase = 0.156
+
+newf0 = origf0 * ((halfsteps)^(semitone_increase))
